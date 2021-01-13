@@ -58,7 +58,7 @@ function draw() {
   fill(0);
   text("PRESS R TO RELOAD", 875, 20);
   text("PRESS C FOR SOURCE CODE", 825, 40);
-  text("CLOCK MOUSE ANYWHERE ON THE CANVAS", 735, 60);
+  text("CLICK MOUSE ANYWHERE ON THE CANVAS", 735, 60);
   text("PRESS SPACE BAR TO SWITCH CLOCK STYLE", 730, 80);
 }
 
